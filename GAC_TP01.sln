@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2008
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GrafoLA", "GAC_TP01\GrafoLA.csproj", "{AF29C1C8-1FF9-4D22-9CB6-A019BA371F58}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GrafoMA", "GrafoMA\GrafoMA.csproj", "{8F70198F-ED29-4A83-A18F-32DA6B99A39F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Principal", "Principal\Principal.csproj", "{42091CD6-ADCC-4D8E-8168-0329A52A2EB7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AF29C1C8-1FF9-4D22-9CB6-A019BA371F58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF29C1C8-1FF9-4D22-9CB6-A019BA371F58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF29C1C8-1FF9-4D22-9CB6-A019BA371F58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF29C1C8-1FF9-4D22-9CB6-A019BA371F58}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F70198F-ED29-4A83-A18F-32DA6B99A39F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F70198F-ED29-4A83-A18F-32DA6B99A39F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F70198F-ED29-4A83-A18F-32DA6B99A39F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F70198F-ED29-4A83-A18F-32DA6B99A39F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42091CD6-ADCC-4D8E-8168-0329A52A2EB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42091CD6-ADCC-4D8E-8168-0329A52A2EB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42091CD6-ADCC-4D8E-8168-0329A52A2EB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42091CD6-ADCC-4D8E-8168-0329A52A2EB7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3C1503C9-D64D-45E0-B41F-81B97C27FEEA}
+	EndGlobalSection
+EndGlobal

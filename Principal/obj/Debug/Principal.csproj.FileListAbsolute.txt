@@ -1,0 +1,13 @@
+C:\Users\klebe\Google Drive\PUC\Sistemas de Informação\4º Periodo\Grafos\GAC TP01\GAC_TP01\Principal\bin\Debug\Principal.exe.config
+C:\Users\klebe\Google Drive\PUC\Sistemas de Informação\4º Periodo\Grafos\GAC TP01\GAC_TP01\Principal\bin\Debug\Principal.exe
+C:\Users\klebe\Google Drive\PUC\Sistemas de Informação\4º Periodo\Grafos\GAC TP01\GAC_TP01\Principal\bin\Debug\Principal.pdb
+C:\Users\klebe\Google Drive\PUC\Sistemas de Informação\4º Periodo\Grafos\GAC TP01\GAC_TP01\Principal\bin\Debug\GrafoMA.exe
+C:\Users\klebe\Google Drive\PUC\Sistemas de Informação\4º Periodo\Grafos\GAC TP01\GAC_TP01\Principal\bin\Debug\GrafoMA.pdb
+C:\Users\klebe\Google Drive\PUC\Sistemas de Informação\4º Periodo\Grafos\GAC TP01\GAC_TP01\Principal\bin\Debug\GrafoMA.exe.config
+C:\Users\klebe\Google Drive\PUC\Sistemas de Informação\4º Periodo\Grafos\GAC TP01\GAC_TP01\Principal\obj\Debug\Principal.csprojResolveAssemblyReference.cache
+C:\Users\klebe\Google Drive\PUC\Sistemas de Informação\4º Periodo\Grafos\GAC TP01\GAC_TP01\Principal\obj\Debug\Principal.csproj.CoreCompileInputs.cache
+C:\Users\klebe\Google Drive\PUC\Sistemas de Informação\4º Periodo\Grafos\GAC TP01\GAC_TP01\Principal\obj\Debug\Principal.exe
+C:\Users\klebe\Google Drive\PUC\Sistemas de Informação\4º Periodo\Grafos\GAC TP01\GAC_TP01\Principal\obj\Debug\Principal.pdb
+C:\Users\klebe\Google Drive\PUC\Sistemas de Informação\4º Periodo\Grafos\GAC TP01\GAC_TP01\Principal\bin\Debug\GrafoLA.exe
+C:\Users\klebe\Google Drive\PUC\Sistemas de Informação\4º Periodo\Grafos\GAC TP01\GAC_TP01\Principal\bin\Debug\GrafoLA.pdb
+C:\Users\klebe\Google Drive\PUC\Sistemas de Informação\4º Periodo\Grafos\GAC TP01\GAC_TP01\Principal\bin\Debug\GrafoLA.exe.config

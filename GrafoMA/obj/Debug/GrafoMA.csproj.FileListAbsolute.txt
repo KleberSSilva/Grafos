@@ -1,0 +1,7 @@
+C:\Users\klebe\Google Drive\PUC\Sistemas de Informação\4º Periodo\Grafos\GAC TP01\GAC_TP01\GrafoMA\obj\Debug\GrafoMA.csprojResolveAssemblyReference.cache
+C:\Users\klebe\Google Drive\PUC\Sistemas de Informação\4º Periodo\Grafos\GAC TP01\GAC_TP01\GrafoMA\obj\Debug\GrafoMA.csproj.CoreCompileInputs.cache
+C:\Users\klebe\Google Drive\PUC\Sistemas de Informação\4º Periodo\Grafos\GAC TP01\GAC_TP01\GrafoMA\bin\Debug\GrafoMA.exe.config
+C:\Users\klebe\Google Drive\PUC\Sistemas de Informação\4º Periodo\Grafos\GAC TP01\GAC_TP01\GrafoMA\bin\Debug\GrafoMA.exe
+C:\Users\klebe\Google Drive\PUC\Sistemas de Informação\4º Periodo\Grafos\GAC TP01\GAC_TP01\GrafoMA\bin\Debug\GrafoMA.pdb
+C:\Users\klebe\Google Drive\PUC\Sistemas de Informação\4º Periodo\Grafos\GAC TP01\GAC_TP01\GrafoMA\obj\Debug\GrafoMA.exe
+C:\Users\klebe\Google Drive\PUC\Sistemas de Informação\4º Periodo\Grafos\GAC TP01\GAC_TP01\GrafoMA\obj\Debug\GrafoMA.pdb

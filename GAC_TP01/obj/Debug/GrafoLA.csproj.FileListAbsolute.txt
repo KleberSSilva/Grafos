@@ -1,0 +1,7 @@
+C:\Users\klebe\Google Drive\PUC\Sistemas de Informação\4º Periodo\Grafos\GAC TP01\GAC_TP01\GAC_TP01\obj\Debug\GrafoLA.csprojResolveAssemblyReference.cache
+C:\Users\klebe\Google Drive\PUC\Sistemas de Informação\4º Periodo\Grafos\GAC TP01\GAC_TP01\GAC_TP01\obj\Debug\GrafoLA.csproj.CoreCompileInputs.cache
+C:\Users\klebe\Google Drive\PUC\Sistemas de Informação\4º Periodo\Grafos\GAC TP01\GAC_TP01\GAC_TP01\bin\Debug\GrafoLA.exe.config
+C:\Users\klebe\Google Drive\PUC\Sistemas de Informação\4º Periodo\Grafos\GAC TP01\GAC_TP01\GAC_TP01\bin\Debug\GrafoLA.exe
+C:\Users\klebe\Google Drive\PUC\Sistemas de Informação\4º Periodo\Grafos\GAC TP01\GAC_TP01\GAC_TP01\bin\Debug\GrafoLA.pdb
+C:\Users\klebe\Google Drive\PUC\Sistemas de Informação\4º Periodo\Grafos\GAC TP01\GAC_TP01\GAC_TP01\obj\Debug\GrafoLA.exe
+C:\Users\klebe\Google Drive\PUC\Sistemas de Informação\4º Periodo\Grafos\GAC TP01\GAC_TP01\GAC_TP01\obj\Debug\GrafoLA.pdb

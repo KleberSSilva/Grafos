@@ -1,0 +1,8 @@
+C:\Users\klebe\Google Drive\PUC\Sistemas de Informação\4º Periodo\Grafos\GAC TP01\GAC_TP01\GAC_TP01\bin\Debug\GAC_TP01.exe.config
+C:\Users\klebe\Google Drive\PUC\Sistemas de Informação\4º Periodo\Grafos\GAC TP01\GAC_TP01\GAC_TP01\bin\Debug\GAC_TP01.exe
+C:\Users\klebe\Google Drive\PUC\Sistemas de Informação\4º Periodo\Grafos\GAC TP01\GAC_TP01\GAC_TP01\bin\Debug\GAC_TP01.pdb
+C:\Users\klebe\Google Drive\PUC\Sistemas de Informação\4º Periodo\Grafos\GAC TP01\GAC_TP01\GAC_TP01\obj\Debug\GAC_TP01.csprojResolveAssemblyReference.cache
+C:\Users\klebe\Google Drive\PUC\Sistemas de Informação\4º Periodo\Grafos\GAC TP01\GAC_TP01\GAC_TP01\obj\Debug\GAC_TP01.csproj.CoreCompileInputs.cache
+C:\Users\klebe\Google Drive\PUC\Sistemas de Informação\4º Periodo\Grafos\GAC TP01\GAC_TP01\GAC_TP01\obj\Debug\GAC_TP01.exe
+C:\Users\klebe\Google Drive\PUC\Sistemas de Informação\4º Periodo\Grafos\GAC TP01\GAC_TP01\GAC_TP01\obj\Debug\GAC_TP01.pdb
+C:\Users\klebe\Google Drive\PUC\Sistemas de Informação\4º Periodo\Grafos\GAC TP01\GAC_TP01\GAC_TP01\bin\Debug\Program.cs
